@@ -1,0 +1,26 @@
+.header-upper-links {
+  padding: 10px 0;
+}
+
+.header-upper-links a {
+  text-decoration: none;
+}
+
+.header-upper-links img {
+  width: 30px;
+  height: 30px;
+}
+
+.header-upper-links p {
+  font-size: 14px;
+  font-weight: 600;
+  line-height: 1.2;
+  text-align: center;
+  margin: 0;
+}
+
+.header-upper-links .badge {
+  font-size: 12px;
+  padding: 2px 6px;
+  border-radius: 50%;
+}
